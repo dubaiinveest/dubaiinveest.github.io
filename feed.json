@@ -1,0 +1,14 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "dubaiinveest",
+    "description": "",
+    "home_page_url": "https://dubaiinveest.github.io",
+    "feed_url": "https://dubaiinveest.github.io/feed.json",
+    "user_comment": "",
+    "icon": "https://dubaiinveest.github.io/media/website/itqan_logo.png",
+    "author": {
+        "name": "itqan team"
+    },
+    "items": [
+    ]
+}
